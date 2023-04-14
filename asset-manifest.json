@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/California/static/css/main.472f1d12.css",
-    "main.js": "/California/static/js/main.97acd61e.js",
+    "main.js": "/California/static/js/main.d8608596.js",
     "static/js/787.28cb0dcd.chunk.js": "/California/static/js/787.28cb0dcd.chunk.js",
     "static/media/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.slideshow-xlarge_2x-removebg.png": "/California/static/media/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.slideshow-xlarge_2x-removebg.ecd551324b5252df6e64.png",
     "static/media/Snimok-jekrana-20220109-v-18_52_27-transformed.png": "/California/static/media/Snimok-jekrana-20220109-v-18_52_27-transformed.63637392dfd1995b186c.png",
@@ -23,11 +23,11 @@
     "static/media/Vector.svg": "/California/static/media/Vector.c0eff9189bdb684e23f7ad72f984a215.svg",
     "static/media/Vector-1.svg": "/California/static/media/Vector-1.7443d64723d457433cf69352fac6f535.svg",
     "main.472f1d12.css.map": "/California/static/css/main.472f1d12.css.map",
-    "main.97acd61e.js.map": "/California/static/js/main.97acd61e.js.map",
+    "main.d8608596.js.map": "/California/static/js/main.d8608596.js.map",
     "787.28cb0dcd.chunk.js.map": "/California/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.472f1d12.css",
-    "static/js/main.97acd61e.js"
+    "static/js/main.d8608596.js"
   ]
 }
